@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Samsung" max_length="40" name="x_17582_samsung_samsung" type="collection">
+        <element label="Order date" max_length="40" name="order_date" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Title" mandatory="true" max_length="40" name="title" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Model" max_length="40" name="u_choice_3" type="string">
+            <choice>
+                <element label="S2" sequence="0" value="s2"/>
+                <element label="S3" sequence="1" value="s3"/>
+                <element label="S4" sequence="2" value="s4"/>
+            </choice>
+        </element>
+        <element attributes="base_start=true" label="Table" max_length="80" name="u_table_name_1" type="table_name"/>
+    </element>
+</database>

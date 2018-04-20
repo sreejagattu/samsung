@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="Samsung" language="en" table="x_17582_samsung_samsung">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Samsung</label>
+            <language>en</language>
+            <name>x_17582_samsung_samsung</name>
+            <plural>Samsungs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-23 16:48:14</sys_created_on>
+            <sys_id>25c834dddb0513009726f20ebf961910</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Samsung</sys_name>
+            <sys_package display_value="Samsung" source="x_17582_samsung">db78b815db8113009726f20ebf961930</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Samsung">db78b815db8113009726f20ebf961930</sys_scope>
+            <sys_update_name>sys_documentation_x_17582_samsung_samsung__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-23 16:48:14</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
